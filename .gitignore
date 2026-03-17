@@ -6,3 +6,4 @@ env/
 images/
 image_store/
 .python-version
+student_grades.db
