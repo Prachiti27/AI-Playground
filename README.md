@@ -1,6 +1,6 @@
 ﻿<h1>AI-Playground</h1>
 <p>Thie repository contains AI mini Projects.</p>
-<h4><a href="https://github.com/Prachiti27/AI-Playground/tree/main/MultiAgentSystem">1. MultiAgent System</a></h4>
-<h4><a href="https://github.com/Prachiti27/AI-Playground/tree/main/AIVoiceAssistant">2. AI Voice Assistant</a></h4>
-<h4><a href="https://github.com/Prachiti27/AI-Playground/tree/main/ImageSearchEngine">3. Image Search Engine</a></h4>
-<h4><a href="https://github.com/Prachiti27/AI-Playground/tree/main/TextToSQL">4. Text to SQL app</a></h4>
+<a href="https://github.com/Prachiti27/AI-Playground/tree/main/MultiAgentSystem">MultiAgent System</a>
+<a href="https://github.com/Prachiti27/AI-Playground/tree/main/AIVoiceAssistant">AI Voice Assistant</a>
+<a href="https://github.com/Prachiti27/AI-Playground/tree/main/ImageSearchEngine">Image Search Engine</a>
+<a href="https://github.com/Prachiti27/AI-Playground/tree/main/TextToSQL">Text to SQL app</a>
